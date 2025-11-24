@@ -6,6 +6,8 @@ Leverages Power BI and R to reveal actionable patterns from IMDb movie ratings s
 
 - **Live Power BI Experience:** [Open Dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2M2MTFiMDItMGUyYi00Mjc3LThlZmEtOTQ1Yjk4NWM4NDUyIiwidCI6ImNkY2JiMGUyLTlmZWEtNGY1NC04NjcwLTY3MjcwNzc5N2FkYSIsImMiOjEwfQ%3D%3D)
 
+![Dashboard Preview](assets/screenshots/imdb-dashboard-preview.png)
+
 ## 📊 Data Scope
 
 - **Source:** [IMDb Dataset of 50K Movie Reviews (Kaggle)](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews).
